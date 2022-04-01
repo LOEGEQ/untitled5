@@ -10,6 +10,8 @@ public class mian {
         */
 
 
+
+
         double a=5;
         double b=10;
         double c=15;
