@@ -9,6 +9,7 @@ public class mian {
              System.out.println(a<=0?"A小于0":"A大于0");
         */
 
+
         double a=5;
         double b=10;
         double c=15;
